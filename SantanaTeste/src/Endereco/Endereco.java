@@ -3,14 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package santanateste;
+package Endereco;
 
 /**
  *
  * @author Junior
  */
-public class Pessoa {
-    String nome;
-    String idade;
-    String cpf;
+public class Endereco {
+    String municipio;
+    String estado;
 }
