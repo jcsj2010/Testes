@@ -12,4 +12,6 @@ package Endereco;
 public class Endereco {
     String municipio;
     String estado;
+    String numero;
+    String bairro;
 }
